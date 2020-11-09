@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DavidPeralta32/DavidPeralta32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### console.log('Hello word')
 
-Here are some ideas to get you started:
+###  😄 I’m currently in my last semester of college, I’m a computer systems engineer and I have web development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning the javascript language on a udemy platform course.
+- 👯 I’m looking to collaborate on web development.
+- 📫 How to reach me:
+      email: davi32peralta@gmail.com
+      Linkedin : https://www.linkedin.com/in/david-peralta-arenal-55a6721a0/
+      
+
+
