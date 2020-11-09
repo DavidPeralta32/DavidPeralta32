@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is David 👋
 
 ### console.log('Hello word')
 
@@ -9,6 +9,4 @@
 - 📫 How to reach me:
       email: davi32peralta@gmail.com
       Linkedin : https://www.linkedin.com/in/david-peralta-arenal-55a6721a0/
-      
-
-
+  
