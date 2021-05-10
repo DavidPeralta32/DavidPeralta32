@@ -2,9 +2,10 @@
 
 ### console.log('Hello word')
 
-###  😄 I’m currently in my last semester of college, I’m a computer systems engineer and I have web development skills.
+###  😄 I’m currently in my last semester of college, I’m a computer systems engineer and I have web development skills
 
 - 🌱 I'm currently learning the javascript language on a udemy platform course.
+- I am also learning kotlin for android development.
 - 👯 I’m looking to collaborate on web development.
 - 📫 How to reach me:
       email: davi32peralta@gmail.com
